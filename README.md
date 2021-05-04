@@ -5,7 +5,7 @@ the pieces of Hexaforce. Made in collaboration with [Justin Michaud](https://git
 
 # Installation
 
-Start by cloning the repository with:
+You only have to clone the repository:
 
 ```
 git clone https://github.com/San-Bed/The-Legend-of-Zoe.git
