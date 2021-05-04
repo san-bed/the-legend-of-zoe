@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The-Legend-of-Zoe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Legend_of_Zoe_jar</output-path>
+    <root id="archive" name="The-Legend-of-Zoe.jar">
+      <element id="module-output" name="The-Legend-of-Zoe" />
+    </root>
+  </artifact>
+</component>
