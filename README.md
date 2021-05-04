@@ -8,7 +8,7 @@ the pieces of Hexaforce. Made in collaboration with [Justin Michaud](https://git
 Start by cloning the repository with:
 
 ```
-git clone https://github.com/San-Bed/House-Prices-Prediction.git 
+git clone https://github.com/San-Bed/The-Legend-of-Zoe.git
 ```
 
 # Usage
@@ -19,10 +19,13 @@ To launch the game, simply do:
 java -jar out/artifacts/The_Legend_of_Zoe_jar/The-Legend-of-Zoe.jar
 ```
 
-Zoe's character is `&`, monsters are `@` and chests are `$`.
-Here are listed the important commands. Each time you press a key, you have to press `Enter`.
+Here are listed the important symbols and commands. Each time you press a key, you have to press `Enter`.
 
-* `w`: Move up
+* `&`: Zoe
+* `@`: Monsters
+* `$`: Chests
+* `#`: Walls
+* `E`: Exit
 * `s`: Move down
 * `a`: Move left
 * `d`: Move right
