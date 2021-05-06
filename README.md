@@ -20,7 +20,7 @@ To launch the game, simply do:
 java -jar out/artifacts/The_Legend_of_Zoe_jar/The-Legend-of-Zoe.jar
 ```
 
-Here are listed the important symbols and commands. Each time you press a key, you have to press `Enter`.
+Here are listed the important symbols and commands. Each time you press a key, you have to press `Enter` to update the game.
 
 * `&`: Zoe
 * `@`: Monsters
@@ -33,16 +33,11 @@ Here are listed the important symbols and commands. Each time you press a key, y
 * `o`: Open treasure chest
 * `c`: Break wall
 * `x`: Attack monster
-* `q`: Exit the game
-
-## What I Learned
-* How to develop and display a command-line user interface.
-* How to code a path-finding algorithm for enemy movement.
-* Intermediate programming concepts: OOP, algorithms, class hierarchy, software development. 
+* `q`: Exit the game 
 
 ## Support
 
 If you run through any trouble with the installation, please contact me at [sandrine.bedard@icloud.com](mailto:sandrine.bedard@icloud.com]).
 
 ## Acknowledgment
-This project was completed with wonderful teammate Justin Michaud.
+As stated above, this project was completed with wonderful teammate and friend, Justin Michaud.
