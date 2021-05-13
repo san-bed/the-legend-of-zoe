@@ -4,7 +4,7 @@ This is a command-line videogame built for my IFT 1025 - Programming II course. 
 Hexaforce's pieces to restore order to the world. Zoe advances through the 6 levels of a dungeon, each level hides one of 
 the pieces of Hexaforce. Made in collaboration with [Justin Michaud](https://github.com/justinmichaud5).
 
-# Installation
+## Installation
 
 You only have to clone the repository:
 
@@ -12,7 +12,7 @@ You only have to clone the repository:
 git clone https://github.com/San-Bed/The-Legend-of-Zoe.git
 ```
 
-# Usage
+## Usage
 
 To launch the game, simply do:
 
