@@ -9,7 +9,7 @@ the pieces of Hexaforce. Made in collaboration with [Justin Michaud](https://git
 You only have to clone the repository:
 
 ```
-git clone https://github.com/San-Bed/The-Legend-of-Zoe.git
+git clone https://github.com/sandrine-bedard/The-Legend-of-Zoe.git
 ```
 
 ## Usage
